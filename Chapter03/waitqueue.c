@@ -44,5 +44,5 @@ void my_exit(void)
 
 module_init(my_init);
 module_exit(my_exit);
-MODULE_AUTHOR("John Madieu <john.madieu@gmail.com>");
+MODULE_AUTHOR("Aijaz Baig <aijazbaig1@gmail.com>");
 MODULE_LICENSE("GPL");
